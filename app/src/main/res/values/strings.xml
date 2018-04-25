@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Address book</string>
+    <string name="factorial_input_string">First name</string>
+    <string name="input_last_name">Last name</string>
+    <string name="input_email">Email</string>
+    <string name="input_phone">Phone number</string>
+    <string name="button_text">ADD</string>
+
+</resources>
